@@ -1,0 +1,6 @@
+1. Faça um algoritmo que leia e some 2 números e imprima o resultado.
+2. Faça um algoritmo que leia e subtraia 2 números e imprima o resultado.
+3. Faça um algoritmo que leia e multiplique 2 números e imprima o resultado.
+4. Faça um algoritmo que leia e divida 2 números e imprima o resultado.
+
+Desafio: Faça um algoritmo que leia, some, subtraia e multiplique 2 números e imprima os resultados destas operações.
