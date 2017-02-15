@@ -1,0 +1,8 @@
+Algoritmo multiplica_5_numeros
+variaveis
+        n1, n2, n3, n4, n5: inteiro;
+Início
+      leia(n1,n2,n3,n4,n5);
+      n1 = n1 * n2 * n3 * n4 * n5;
+      escreva(n1);
+Fim

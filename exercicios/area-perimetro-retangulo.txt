@@ -1,0 +1,10 @@
+Algoritmo area_perimetro_retangulo
+Variáveis
+        lado_1, lado_2, area, perimetro: inteiro;
+Início
+      leia(lado_1, lado_2); //lê os dois lados do retângulo
+      area = lado_1 * lado_2; //calcula a área (base * altura)
+      perimetro = lado_1 * 2 + lado_2 * 2;
+      escreva(area); //imprime a área
+      escreva(perimetro); //imprime o perímetro
+Fim

@@ -1,0 +1,15 @@
+Algoritmo azulejos
+Variáveis
+        lado_1_azulejo, lado_2_azulejo: inteiro; 
+        lado1_parede, lado2_parede: inteiro;
+        area_azulejo, area_parede: inteiro;
+        result: real;
+Início
+     //lê os lados da parede e do azule em cm
+     leia(lado_1_azulejo, lado_2_azulejo, lado1_parede, lado2_parede);
+     area_azulejo ← lado_1_azulejo * lado_2_azulejo;
+     area_parede ← lado1_parede * lado2_parede;
+     result ← area_parede/area_azulejo;
+     escreva(result);
+Fim
+   
